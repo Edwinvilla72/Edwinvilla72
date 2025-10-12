@@ -1,9 +1,9 @@
 # About Me:
 Hi, I'm Edwin 👨‍💻<br>
 🌱 AI Software Developer<br>
-⚡️ Computer Science student at the University of Central Florida<br>
-📊 Currently leading a fitness tracker project with RPG elements & leveling mechanics.<br>
-📱 Currently exploring full-stack web apps, iOS development, and interactive UI design<br>
+⚡️ Computer Science Senior - University of Central Florida<br>
+🧠 Currently leading the development of intelligent browser agents <br>
+📱 Currently exploring full-stack web apps, efficient libraries for backend development, and interactive UI design<br>
 🎯 Driven to create technology that feels intuitive, personal, and meaningful<br>
 🙏 Force Push and Pray (not really but kinda)
 
