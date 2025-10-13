@@ -5,7 +5,7 @@ Hi, I'm Edwin 👨‍💻<br>
 🧠 Currently leading the development of intelligent browser agents <br>
 📱 Currently exploring full-stack web apps, efficient libraries for backend development, and interactive UI design<br>
 🎯 Driven to create technology that feels intuitive, personal, and meaningful<br>
-🙏 Force Push and Pray (not really but kinda)
+🙏 Force Push and Pray
 
 
 ## 🌐 Socials:
