@@ -1,11 +1,10 @@
 # About Me:
 Hi, I'm Edwin 👨‍💻<br>
-🌱 AI Software Developer<br>
-⚡️ Computer Science Senior - University of Central Florida<br>
-🧠 Currently leading the development of intelligent browser agents <br>
-📱 Currently exploring full-stack web apps, efficient libraries for backend development, and interactive UI design<br>
-🎯 Driven to create technology that feels intuitive, personal, and meaningful<br>
-🙏 Force Push and Pray
+- AI Software Developer<br>
+- Computer Science Senior - University of Central Florida<br>
+- Currently leading the development of intelligent browser agents <br>
+- Currently exploring full-stack web apps, efficient libraries for backend development, and interactive UI design<br>
+- Driven to create technology that feels intuitive, personal, and meaningful<br>
 
 
 ## 🌐 Socials:
