@@ -9,7 +9,7 @@
 </div>
 
 
-- Full Stack AI Software Developer<br>
+- Software Engineer (Full Stack)<br>
 - University of Central Florida - Computer Science (Alumni) <br>
 - Currently leading the development of Intelligent Browser Agents <br>
 - Currently developing full-stack web apps, efficient libraries for backend development, and interactive UI design<br>
