@@ -27,21 +27,18 @@
 ![](https://nirzak-streak-stats.vercel.app/?user=edwinvilla72&theme=github_dark&hide_border=false)<br/>
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=edwinvilla72&theme=github_dark&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
 
-## 🏆 GitHub Trophies
-![](https://github-profile-trophy.vercel.app/?username=edwinvilla72&theme=github_dark&no-frame=false&no-bg=true&margin-w=4)
 -->
 ### Quote of the Day
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight)
 
+<!--
 
+-->
 <div align="center">
   <img src="https://komarev.com/ghpvc/?username=edwinvilla72&style=for-the-badge&color=2563EB" alt="profile views" />
 </div>
-
 <!--
-### 🔝 Top Contributed Repo
-![](https://github-contributor-stats.vercel.app/api?username=edwinvilla72&limit=5&theme=github_dark&combine_all_yearly_contributions=true)
--->
+
 
 
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
