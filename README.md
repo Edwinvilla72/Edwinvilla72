@@ -33,25 +33,6 @@
 ### Quote of the Day
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight)
 
----
-
-## 📊 GitHub Analytics
-
-<div align="center">
-
-<img src="assets/metrics/overview.svg" alt="GitHub stats: contributions, repositories, stars and followers" />
-<br/>
-<img src="assets/metrics/languages.svg" alt="Most-used languages across public repositories" />
-<br/>
-<img src="assets/metrics/streak.svg" alt="Contribution calendar with current and longest streak" />
-
-<sub>Generated twice daily by a GitHub Action · contribution counts include private work; languages reflect public repos</sub>
-
-</div>
-
----
-
-## 🔎 Live Profile Details
 
 <div align="center">
   <img src="https://komarev.com/ghpvc/?username=edwinvilla72&style=for-the-badge&color=2563EB" alt="profile views" />
